@@ -1,19 +1,19 @@
-========================================================================
-FACULTY PROFILE: Dr. Sajad Khorsandroo
+FACULTY_MEMBER: Dr. Sajad Khorsandroo
 DEPARTMENT: Computer Science
 UNIVERSITY: North Carolina A&T State University
-========================================================================
-
----
 SECTION: GENERAL OVERVIEW
+CONTENT:
 Title: Associate Professor and Associate Director of the Center for Cyber Defense
 Academic Background: Ph.D. in Computer Science from the University of Texas at San Antonio (2019) with a focus on Securing Software Defined Network Infrastructure in Cloud Data Centers; M.S. in Computer Science from the University of Malaya (2013); BS in Computer Software Technology Engineering from the University of Applied Science and Technology (2006).
 Contact Email: skhorsandroo@ncat.edu
 Primary Office Location: McNair Hall
 Affiliations: Faculty Affiliate with the Center of Excellence in Product Design and Advanced Manufacturing (CEPDAM).
-
 ---
+FACULTY_MEMBER: Dr. Sajad Khorsandroo
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: TEACHING HISTORY
+CONTENT:
 * COMP 365: AI and Machine Learning
 * COMP 420: Applied Network Security
 * COMP 476: Networked Computer Systems
@@ -22,18 +22,27 @@ SECTION: TEACHING HISTORY
 * COMP 796: Master's Project
 * COMP 826: Advanced Security for Emerging Networks
 * COMP 895: LLM and Security Protocols
-
 ---
+FACULTY_MEMBER: Dr. Sajad Khorsandroo
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: SCHOLAR PROFILE AND RESEARCH FINGERPRINT
+CONTENT:
 Research Keywords: Software-Defined Networking (SDN), Cloud Provider Architecture, Network Infrastructure, Networking Environment, Distributed Data Centers, Cloud Security, Hybrid SDN Evolution, Generative AI for Networks, Autonomous Cybersecurity.
 Active Research Summary: Operates as an Associate Director of the Center for Cyber Defense. Leads the Autonomous Cybersecurity and Resilience Lab, focusing heavily on applying generative AI paradigms to computer networks, establishing safety parameters for cloud provider environments, optimizing resource deployment, and managing threat mitigations within software-defined networking infrastructures. 
-
 ---
+FACULTY_MEMBER: Dr. Sajad Khorsandroo
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: DOCUMENTED SCHOLARSHIP AND CREATIVE EXPRESSIONS
+CONTENT:
 * Publication 1 (2021): "Hybrid SDN evolution: A comprehensive survey of the state-of-the-art" published in Computer Networks. Co-authored with A. G. Sánchez, A. S. Tosun, J. M. Arco, and R. Doriguzzi-Corin. Examines software-defined networking transitions, network architecture layouts, and financial/infrastructure resource trade-offs for service providers.
 * Specialized Research: "Teaching Flooding Attack to the SDN Data Plane with POGIL" (NSF supported). Investigates student-centered instructional techniques for exploring data plane security vulnerabilities and building custom network defense frameworks.
-
 ---
+FACULTY_MEMBER: Dr. Sajad Khorsandroo
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: STUDENT REVIEWS & CLASSROOM VERDICT
+CONTENT:
 [Student Feedback Core Tracker]
 No student reviews or public course evaluations are currently available for this instructor.

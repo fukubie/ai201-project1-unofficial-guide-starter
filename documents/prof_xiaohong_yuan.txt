@@ -1,39 +1,48 @@
-========================================================================
-FACULTY PROFILE: Dr. Xiaohong Yuan
+FACULTY_MEMBER: Dr. Xiaohong Yuan
 DEPARTMENT: Computer Science (Graduate Program Coordinator)
 UNIVERSITY: North Carolina A&T State University
-========================================================================
-
----
 SECTION: GENERAL OVERVIEW
+CONTENT:
 Title: Professor and Graduate Program Coordinator
 Academic Background: Ph.D. in Computer Science from Florida Atlantic University (2000), Ph.D. in Computer and Information Sciences from Institute of Automation, Chinese Academy of Sciences (1997), BS in Industry Automation from Huazhong University of Science and Technology (1993).
 Contact Email: xhyuan@ncat.edu
 Primary Office Location: McNair Hall
 Administration Focus: Handles core processes for graduate students, including managing master's and doctoral plans of study, thesis forms, independent study allocations, and graduate funding inquiries.
-
 ---
+FACULTY_MEMBER: Dr. Xiaohong Yuan
+DEPARTMENT: Computer Science (Graduate Program Coordinator)
+UNIVERSITY: North Carolina A&T State University
 SECTION: TEACHING HISTORY
+CONTENT:
 * COMP 320: Fundamentals of Information Assurance
 * COMP 494: Independent Study (Undergraduate)
 * COMP 496: Senior Project II
 * COMP 700: Independent Study (Graduate)
 * COMP 725: Software Security Testing
-
 ---
+FACULTY_MEMBER: Dr. Xiaohong Yuan
+DEPARTMENT: Computer Science (Graduate Program Coordinator)
+UNIVERSITY: North Carolina A&T State University
 SECTION: SCHOLAR PROFILE AND RESEARCH FINGERPRINT
+CONTENT:
 Research Keywords: Spoofing Attack, Local Area Network (LAN) Security, Cybersecurity, Address Resolution Protocol (ARP) Spoofing, Insider Threat, Visualization Tool, Information Security, Domain Features, Phishing Detection, Ontology-Driven Recommender Systems.
 Active Research Summary: Specializes heavily in information assurance, software safety, and structural infrastructure network defenses. A significant portion of her research evaluates how gamification and educational games can be engineered to enhance cybersecurity mastery. Additionally conducts optimization tracking for detecting adversarial phishing emails using domain signatures and Naive Bayes architectures.
-
 ---
+FACULTY_MEMBER: Dr. Xiaohong Yuan
+DEPARTMENT: Computer Science (Graduate Program Coordinator)
+UNIVERSITY: North Carolina A&T State University
 SECTION: DOCUMENTED SCHOLARSHIP AND CREATIVE EXPRESSIONS
+CONTENT:
 * Publication 1 (2024): "Using Gamification to Enhance Mastery of Network Security Concepts" published in the Journal of Cybersecurity Education, Research and Practice. Co-authored with K. Hillard, K. S. Bryant, J. Xu, and J. Zhang.
 * Publication 2 (2022): "Automating the Identification of Security Concerns in Use Cases Models: An Ontology-Driven Recommender System Approach" published in Springer Automated Software Engineering. Co-authored with I. Williams, M. Anwar, and J. Todd McDonald.
 * Publication 3 (2022): "Determining Phishing Emails using URL Domain Features." Co-authored with A. Sumner and J. Xu. Focuses on identifying digital attackers via structural domain data points.
 * Publication 4 (2022): "Developing and Assessing Educational Games to Enhance Cyber Security Learning in Computer Science." Co-authored with J. Zhang and J. Xu.
 * Publication 5 (2022): "Learn ARP Spoofing Attack in a Game." Co-authored with J. Xu, S. Nallela, K. Hillard, and J. Zhang. Investigates defensive mechanisms against insider local area network exploits using gamified mechanics.
-
 ---
+FACULTY_MEMBER: Dr. Xiaohong Yuan
+DEPARTMENT: Computer Science (Graduate Program Coordinator)
+UNIVERSITY: North Carolina A&T State University
 SECTION: STUDENT REVIEWS & CLASSROOM VERDICT
+CONTENT:
 [Student Feedback Core Tracker]
 No student reviews or public course evaluations are currently available for this instructor.

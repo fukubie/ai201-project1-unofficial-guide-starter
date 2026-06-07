@@ -1,39 +1,48 @@
-========================================================================
-FACULTY PROFILE: Dr. Letu Qingge
+FACULTY_MEMBER: Dr. Letu Qingge
 DEPARTMENT: Computer Science
 UNIVERSITY: North Carolina A&T State University
-========================================================================
-
----
 SECTION: GENERAL OVERVIEW
+CONTENT:
 Title: Assistant Professor and Director of the Bioinformatics and Artificial Intelligence Lab (BioAI Lab)
 Academic Background: Ph.D. in Computer Science from Montana State University (2018) with a dissertation on "Computational Investigation on Protein Sequencing and Genome Rearrangement Problems"; M.S. in Management Science and Engineering from Beijing University of Chemical Technology (2014); BS in Information and Computer Science from Inner Mongolia University (2009).
 Contact Email: lqingge@ncat.edu
 Primary Office Location: McNair Hall
 Honors & Awards: Winner of the ISBRA 2024 Best Paper Award (20th International Symposium on Bioinformatics Research and Applications); BICOB 2024 Best Paper Award Finalist (16th International Conference on Bioinformatics and Computational Biology); Winner of the IEEE UEMCON 2023 Best Paper Award. Research funded by the NSF and NIH.
-
 ---
+FACULTY_MEMBER: Dr. Letu Qingge
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: TEACHING HISTORY
+CONTENT:
 * COMP 267: Data Base Design
 * COMP 285: Analysis of Algorithms
 * COMP 385: Theory of Computing
 * COMP 496: Senior Project II
 * COMP 790: Independent Study
-
 ---
+FACULTY_MEMBER: Dr. Letu Qingge
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: SCHOLAR PROFILE AND RESEARCH FINGERPRINT
+CONTENT:
 Research Keywords: Algorithms, Combinatorial Optimization, Machine Learning, Deep Learning, Bioinformatics, Computational Biology, Image Processing, Computer Vision, Transportation, Neural Network Control, Image Restoration, Image Inpainting, Field Programmable Gate Array (FPGA), Federated Machine Learning, Knowledge Distillation.
 Active Research Summary: Directs the Bioinformatics and Artificial Intelligence Lab (BioAI Lab). Research focuses on solving combinatorial optimization and sequencing problems in biological data (like protein scaffold gaps), engineering deep learning methods for computer vision tasks (such as edge-guided mural image restoration), and developing neural network controllers embedded on hardware components like FPGAs. Also tracks computational biology applications utilizing federated learning networks.
-
 ---
+FACULTY_MEMBER: Dr. Letu Qingge
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: DOCUMENTED SCHOLARSHIP AND CREATIVE EXPRESSIONS
+CONTENT:
 * Publication 1 (2024): "Accelerating the neural network controller embedded implementation on FPGA with novel dropout techniques for a solar inverter" published in Pervasive and Mobile Computing. Co-authored with J. Sturtz, K. K. D. Surendranath, M. Sam, X. Fu, C. D. Hingu, and R. Challoo. Focuses on neural network hardware deployments.
 * Publication 2 (2024): "Edge-Guided Mural Image Inpainting by Integrating Local and Global Information and Multiple Color Spaces" published in Proceedings - IEEE International Conference on Multimedia and Expo. Co-authored with G. Li, Q. Pan, and P. Yang. Focuses on image restoration and Convolutional Neural Networks.
 * Publication 3 (2024): "Efficient Federated Learning with Multi-Teacher Knowledge Distillation for COVID-19 Detection" published in ACM-BCB 2024 (15th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics). Co-authored with R. Annan, H. Qin, X. Yuan, K. Roy, and R. Newman. 
 * Publication 4 (2024): "Generative AI Models for the Protein Scaffold Filling Problem" published in the Journal of Computational Biology. Co-authored with K. Badal, R. Annan, J. Sturtz, X. Liu, and B. Zhu.
 * Publication 5 (2024): "Probabilistic and Machine Learning Models for the Protein Scaffold Gap Filling Problem" published in Lecture Notes in Computer Science (LNBI subseries). Co-authored with K. Badal, X. Liu, and B. Zhu. Examines amino acid sequence structuring using decision tree variations.
-
 ---
+FACULTY_MEMBER: Dr. Letu Qingge
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: STUDENT REVIEWS & CLASSROOM VERDICT
+CONTENT:
 [Student Feedback Core Tracker]
 No student reviews or public course evaluations are currently available for this instructor.

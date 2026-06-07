@@ -1,31 +1,37 @@
-========================================================================
-FACULTY PROFILE: Dr. Kaushik Roy
+FACULTY_MEMBER: Dr. Kaushik Roy
 DEPARTMENT: Computer Science (Department Chair)
 UNIVERSITY: North Carolina A&T State University
-========================================================================
-
----
 SECTION: GENERAL OVERVIEW
+CONTENT:
 Title: Professor and Department Chair / Ron McNair Endowed Chair
 Core Courses Taught: COMP 160 (Programming I), COMP 365 (AI and Machine Learning), COMP 410 (Software Engineering), AST 984 (Laboratory Internship), AST 997 (Doctoral Dissertation)
 Primary Office Location: McNair Hall
 Contact: kroy@ncat.edu
 Academic Background: Ph.D. in Computer Science from Concordia University (2011)
-
 ---
+FACULTY_MEMBER: Dr. Kaushik Roy
+DEPARTMENT: Computer Science (Department Chair)
+UNIVERSITY: North Carolina A&T State University
 SECTION: RESEARCH AND INTERESTS
+CONTENT:
 Keywords/Fingerprint: Iris Recognition, Support Vector Machine (SVM), Iris Image, Genetic Algorithm, Machine Learning, Level Set Method, Recognition Performance, Deep Convolutional Neural Networks, Malware Traffic Classification, DDoS in SDN, Federated Learning, Intrusion Detection Systems (IDS).
 Active Research Summary: Directs the Center for Cyber Defense (CCD)—designated as a National Center of Academic Excellence in Cybersecurity (NCAE-C). He also directs the Center for Trustworthy AI and the Cyber Defense and AI Lab. Has managed over $32M in research funding ($14M as PI) from the NSF, DoD, and DoE. Focuses heavily on biometrics (face/iris recognition), secure AI systems, adversarial machine learning, and IoT system security.
-
 ---
+FACULTY_MEMBER: Dr. Kaushik Roy
+DEPARTMENT: Computer Science (Department Chair)
+UNIVERSITY: North Carolina A&T State University
 SECTION: RECENT SCHOLARSHIP AND PUBLICATIONS (DATA CHUNKS)
+CONTENT:
 * Publication 1 (2024): "Classifying Malware Traffic Using Images and Deep Convolutional Neural Network" published in IEEE Access. Investigates deep learning methods to identify network traffic anomalies and malware strains.
 * Publication 2 (2024): "DDoS in SDN: a review of open datasets, attack vectors and mitigation strategies" published in Discover Applied Sciences.
 * Publication 3 (2024): "FL-IDS: Federated Learning-Based Intrusion Detection System Using Edge Devices for Transportation IoT" published in IEEE Access. Addresses data privacy and embedded device security in vehicular networks.
 * Publication 4 (2023): "Detection of Road Condition Defects Using Multiple Sensors and IoT Technology: A Review" in IEEE Open Journal of Intelligent Transportation Systems.
 * Publication 5 (2023): "Identifying Fake and Real Images by Using Masked Face Periocular Region". Explores Extreme Gradient Boosting and CNN architectures for facial verification.
-
 ---
+FACULTY_MEMBER: Dr. Kaushik Roy
+DEPARTMENT: Computer Science (Department Chair)
+UNIVERSITY: North Carolina A&T State University
 SECTION: STUDENT REVIEWS & CLASSROOM VERDICT
+CONTENT:
 [Student Feedback Core Tracker]
 No student reviews or public course evaluations are currently available for this instructor.

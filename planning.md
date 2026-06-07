@@ -57,11 +57,11 @@ Our system puts all this messy data into one place so students can ask questions
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-
+1,000 characters (~250 tokens)
 **Overlap:**
-
+150 characters (~35 words)
 **Reasoning:**
-
+We chose a chunk size of 1,000 characters because our dataset consists of 15 structured faculty profiles. Some sections are short factual lists, while others (like the student reviews and publication logs) are longer blocks of text.
 ---
 
 ## Retrieval Approach
@@ -73,11 +73,11 @@ Our system puts all this messy data into one place so students can ask questions
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
-
+all-MiniLM-L6-v2 via sentence-transformers
 **Top-k:**
-
+3
 **Production tradeoff reflection:**
-
+Conext length: Our current tiny model can only read 256-512 tokens at a time forcing us to chop or split text. A stronger embedding model would let us keep entire professor profiles together in one piece, so information never gets cut. Also, a better vocabulary, because better models understand techincal terms and their meanings much better. Not only that, but trade off between speed and accuracy, bigger models might be smarter at finding correct information but they'll take more time to run but provide more accurate answer.
 ---
 
 ## Evaluation Plan
@@ -89,11 +89,11 @@ Our system puts all this messy data into one place so students can ask questions
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What did Dr. Xiaohong Yuan publish in 2024 regarding network security education?|"Using Gamification to Enhance Mastery of Network Security Concepts" |
+| 2 | Where is Dr. Tony Gwyn Primary Office Location? | Mcnair Hall |
+| 3 | What courses did Dr. Letu Qingge teach? | COMP 267: Data Base Design, COMP 285: Analysis of Algorithms, COMP 385: Theory of Computing, COMP 496: Senior Project II, COMP 790: Independent Study |
+| 4 | What is Dr. Kelvin Bryant active research? | Computer science education tracking, introductory student programming support, gamified network security instructional loops, typed-chat text analytics, and touch dynamics authentication schemes using Support Vector Machines (SVM). |
+| 5 | What percentage of students would would take professor huiming yu again? | 0% |
 
 ---
 
@@ -103,9 +103,9 @@ Our system puts all this messy data into one place so students can ask questions
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Boundaries: Information get cut in half. Even though we're using an overlap of 15% around 150 charachters. There is still a chance of information not being delivered to our AI fully because of context window limitations. Or the slicing part doesn't take a long student review.
 
-2.
+2. Mixing up different professors. Since we have around 15 professors with different specialities the AI might hullicinate and mix up different then it can lead to providing wrong answers.
 
 ---
 
@@ -116,6 +116,7 @@ Our system puts all this messy data into one place so students can ask questions
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+<img src="./Architecture.png">
 
 ---
 

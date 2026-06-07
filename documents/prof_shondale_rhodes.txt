@@ -1,57 +1,68 @@
-========================================================================
-FACULTY PROFILE: Ms. Shondale Rhodes
+FACULTY_MEMBER: Ms. Shondale Rhodes
 DEPARTMENT: Computer Science
 UNIVERSITY: North Carolina A&T State University
-========================================================================
-
----
 SECTION: GENERAL OVERVIEW
+CONTENT:
 Title: Lecturer
 Contact Email: sarhodes@ncat.edu
 Primary Office Location: McNair Hall
 Instructional Focus: Serves as a vital foundation coordinator for the department's freshman sequence, software architectures, and specialized interactive system design paths.
-
 ---
+FACULTY_MEMBER: Ms. Shondale Rhodes
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: TEACHING HISTORY
+CONTENT:
 * COMP 121: Computer Science Freshman Colloquium
 * COMP 163: Intro Computer Programming
 * COMP 322: Internet Systems
 * COMP 350: Operating Systems
 * COMP 440: Game Design
-
 ---
+FACULTY_MEMBER: Ms. Shondale Rhodes
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: SCHOLAR PROFILE AND FOCUS AREAS
+CONTENT:
 Instructional Keywords: Introductory Programming Syntax, Algorithmic Logic, Interactive Web Architectures, Internet Systems, Operating System Internals, Concurrency, Memory Management, Game Design, Game Engine Mechanics, Student Professional Development.
 Active Educational Summary: Instructional track balances introductory computer literacy with highly specialized upper-division computing tracks. Manages the freshman onboarding loop via the Computer Science Freshman Colloquium, while guiding senior-level students through the computational theories of Game Design—focusing on interactive modeling, state management, and asset scripting. Additionally covers core computing fundamentals including low-level process scheduling inside Operating Systems and web engineering protocols inside Internet Systems.
-
 ---
+FACULTY_MEMBER: Ms. Shondale Rhodes
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: METRIC TRACKING OVERVIEW
+CONTENT:
 * Overall Quality Score: 2.2 / 5.0 (Based on 6 ratings)
 * Level of Difficulty: 2.8 / 5.0
 * Student "Would Take Again" Ratio: 34%
 * Primary Course Codes Tracked: COMP 163, COMP 385, COMP 005 (Introductory Tracking Sequences)
-
 ---
+FACULTY_MEMBER: Ms. Shondale Rhodes
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: STRUCTURAL CLASSIFIERS & TAGS
+CONTENT:
 [System Tags Identified]: TOUGH GRADER, PARTICIPATION MATTERS, EXTRA CREDIT, GRADED BY FEW THINGS, LOTS OF HOMEWORK.
-
 ---
+FACULTY_MEMBER: Ms. Shondale Rhodes
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: CHRONOLOGICAL EVALUATION LOG
-
+CONTENT:
 * Evaluation 1 (May 7th, 2026) | Course: COMP 163 | Quality: 1.0 | Difficulty: 4.0 | Grade: B | Attendance: Mandatory
-  Review Text: He's one of the worst teachers I've had. He doesn't teach, just reads slides and uses Kahoots to not teach. He cancels class last minute, and his quizzes are poorly written and stressful. His grammar makes things harder for me with dyslexia. I wouldn't recommend his class, but you'll likely have to take it. Good luck. Tough grader, participation matters.
+Review Text: He's one of the worst teachers I've had. He doesn't teach, just reads slides and uses Kahoots to not teach. He cancels class last minute, and his quizzes are poorly written and stressful. His grammar makes things harder for me with dyslexia. I wouldn't recommend his class, but you'll likely have to take it. Good luck. Tough grader, participation matters.
 
 * Evaluation 2 (Apr 23rd, 2026) | Course: COMP 385 | Quality: 5.0 | Difficulty: 1.0 | Grade: A | Attendance: Mandatory | Would Take Again: Yes
-  Review Text: For COMP 385, prof is so easy. You only do bad if you don't study. (Note: Entered on index system under placeholder code 005).
+Review Text: For COMP 385, prof is so easy. You only do bad if you don't study. (Note: Entered on index system under placeholder code 005).
 
 * Evaluation 3 (Apr 23rd, 2026) | Course: COMP 163 | Quality: 2.0 | Difficulty: 4.0 | Grade: C+ | Attendance: Mandatory
-  Review Text: This professor prepares students for the real world and has high standards, especially when it comes to participation and academic honesty. He expects students to always be ready to answer questions and does not tolerate silence. He is quick to tell students to drop or withdraw from the course or reconsider their major, which can be discouraging. Tough grader, participation matters, extra credit.
+Review Text: This professor prepares students for the real world and has high standards, especially when it comes to participation and academic honesty. He expects students to always be ready to answer questions and does not tolerate silence. He is quick to tell students to drop or withdraw from the course or reconsider their major, which can be discouraging. Tough grader, participation matters, extra credit.
 
 * Evaluation 4 (Apr 20th, 2026) | Course: Introductory Sequence | Quality: 1.0 | Difficulty: 3.0 | Grade: B | Attendance: Mandatory
-  Review Text: Actively disrespects and does not attempt productively working with students. Teaching style involves rushed lectures with poor structure and homework assignments with 0 tolerance for any potential mistakes. Absences will result in a failing grade, so show up to class. Will ignore your emails, so in-person conversation is best. Tough grader, extra credit, graded by few things.
+Review Text: Actively disrespects and does not attempt productively working with students. Teaching style involves rushed lectures with poor structure and homework assignments with 0 tolerance for any potential mistakes. Absences will result in a failing grade, so show up to class. Will ignore your emails, so in-person conversation is best. Tough grader, extra credit, graded by few things.
 
 * Evaluation 5 (Apr 2nd, 2026) | Course: Introductory Sequence | Quality: 3.0 | Difficulty: 4.0 | Grade: B+ | Attendance: Mandatory | Would Take Again: Yes
-  Review Text: For an introductory course where you basically find out if you're cut out for this major it's relatively difficult because you get thrown into the fire early on, however once you build proper study habits and learn how to apply yourself it's a very manageable class. The worst part is that it's paired with calculus/pre-calculus. Tough grader, participation matters, lots of homework.
+Review Text: For an introductory course where you basically find out if you're cut out for this major it's relatively difficult because you get thrown into the fire early on, however once you build proper study habits and learn how to apply yourself it's a very manageable class. The worst part is that it's paired with calculus/pre-calculus. Tough grader, participation matters, lots of homework.
 
 * Evaluation 6 (Feb 4th, 2026) | Course: Introductory Sequence | Quality: 1.0 | Difficulty: 1.0 | Grade: A | Attendance: Mandatory
-  Review Text: He will prepare you for future classes, but it takes a while to get used to his teaching style. You learn the material via hw a week before you do in class. Tough grader, extra credit, lots of homework.
+Review Text: He will prepare you for future classes, but it takes a while to get used to his teaching style. You learn the material via hw a week before you do in class. Tough grader, extra credit, lots of homework.

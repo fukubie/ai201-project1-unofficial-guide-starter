@@ -1,64 +1,78 @@
-========================================================================
-FACULTY PROFILE: Dr. Madhuri Siddula
+FACULTY_MEMBER: Dr. Madhuri Siddula
 DEPARTMENT: Computer Science (Cybersecurity Certificate Coordinator)
 UNIVERSITY: North Carolina A&T State University
-========================================================================
-
----
 SECTION: GENERAL OVERVIEW
+CONTENT:
 Title: Assistant Professor and Coordinator for the Undergraduate Cybersecurity Certificate
 Academic Background: Ph.D. in Computer Science from Georgia State University (2020) with a thesis focusing on privacy-preserving user data publication in online social networks; M.S. in Technology from Indraprastha Institute of Information Technology (2012); BS in Computer Science from Osmania University (2010).
 Contact Email: msiddula@ncat.edu
 Primary Office Location: McNair Hall
 Honors & Grants: Recipient of the NSF Excellence in Research (EiR) award for work on Smart Health technologies. Active member of the NSF Expand AI team focusing on Interdisciplinary Research, Education, and Workforce Development. Industry research collaborator with Collins Aerospace.
-
 ---
+FACULTY_MEMBER: Dr. Madhuri Siddula
+DEPARTMENT: Computer Science (Cybersecurity Certificate Coordinator)
+UNIVERSITY: North Carolina A&T State University
 SECTION: TEACHING HISTORY
+CONTENT:
 * COMP 121: Computer Science Freshman Colloquium
 * COMP 167: Computer Program Design
 * COMP 320: Fundamentals of Information Assurance
 * COMP 385: Theory of Computing
 * COMP 422: Information Privacy and Security
-
 ---
+FACULTY_MEMBER: Dr. Madhuri Siddula
+DEPARTMENT: Computer Science (Cybersecurity Certificate Coordinator)
+UNIVERSITY: North Carolina A&T State University
 SECTION: SCHOLAR PROFILE AND RESEARCH FINGERPRINT
+CONTENT:
 Research Keywords: Privacy-Preserving User Data, Privacy-Preserving Machine Learning, Large Language Models (LLMs), Internet of Things (IoT) Security, Smart Health Technologies, Social Network Privacy, Data Publication Anonymization, Aircraft Airworthiness Metrics, Industrial Maintenance Strategies.
 Active Research Summary: Directs academic tracks for the undergraduate Cybersecurity certificate at NCAT. Research specialties center heavily on engineering privacy-preserving machine learning algorithms tailored for Large Language Models (LLMs) and distributed Internet of Things (IoT) devices. Collaborates with enterprise aerospace partners (Collins Aerospace) to develop predictive machine learning models for cabin interiors, alongside tracking engineering optimizations related to airworthiness directives and aircraft maintenance strategy simulations.
-
 ---
+FACULTY_MEMBER: Dr. Madhuri Siddula
+DEPARTMENT: Computer Science (Cybersecurity Certificate Coordinator)
+UNIVERSITY: North Carolina A&T State University
 SECTION: DOCUMENTED SCHOLARSHIP AND CREATIVE EXPRESSIONS
+CONTENT:
 * Publication Track (2024): Computational research addressing optimization paths within industrial engineering frameworks, analyzing Airworthiness Directives and predictive Maintenance Strategies.
 * Doctoral Thesis (2020): "Privacy-Preserving User Data Publication in Online Social Networks" (Georgia State University). Constructs mathematical privacy models safeguarding graph structures and user attribute profiles in public dataset releases.
 * Core Research Milestone (2018): Structural analysis of distributed security protocols in computational systems networks.
-
 ---
+FACULTY_MEMBER: Dr. Madhuri Siddula
+DEPARTMENT: Computer Science (Cybersecurity Certificate Coordinator)
+UNIVERSITY: North Carolina A&T State University
 SECTION: METRIC TRACKING OVERVIEW
+CONTENT:
 * Overall Quality Score: 3.3 / 5.0 (Based on 6 ratings)
 * Level of Difficulty: 3.2 / 5.0
 * Student "Would Take Again" Ratio: 67%
 * Primary Course Codes Tracked: COMP 167
-
 ---
+FACULTY_MEMBER: Dr. Madhuri Siddula
+DEPARTMENT: Computer Science (Cybersecurity Certificate Coordinator)
+UNIVERSITY: North Carolina A&T State University
 SECTION: STRUCTURAL CLASSIFIERS & TAGS
+CONTENT:
 [System Tags Identified]: GET READY TO READ, LOTS OF HOMEWORK, LECTURE HEAVY, GIVES GOOD FEEDBACK, ACCESSIBLE OUTSIDE CLASS, PARTICIPATION MATTERS, TEST HEAVY, TOUGH GRADER, AMAZING LECTURES, EXTRA CREDIT, CLEAR GRADING CRITERIA.
-
 ---
+FACULTY_MEMBER: Dr. Madhuri Siddula
+DEPARTMENT: Computer Science (Cybersecurity Certificate Coordinator)
+UNIVERSITY: North Carolina A&T State University
 SECTION: CHRONOLOGICAL EVALUATION LOG
-
+CONTENT:
 * Evaluation 1 (May 9th, 2023) | Course: COMP 167 | Quality: 4.0 | Difficulty: 3.0 | Grade: Not sure yet | Attendance: Mandatory | Would Take Again: Yes
-  Review Text: Good professor, great at answering questions. Demonstrations and examples every class. Little extra credit opportunities. The hardest part is the tests that are graded by TAs, but there are only 3 of them and she takes the highest 2 scores, so it's really not that bad. No final. Online textbook. All codes from class are available on Blackboard.
+Review Text: Good professor, great at answering questions. Demonstrations and examples every class. Little extra credit opportunities. The hardest part is the tests that are graded by TAs, but there are only 3 of them and she takes the highest 2 scores, so it's really not that bad. No final. Online textbook. All codes from class are available on Blackboard.
 
 * Evaluation 2 (May 12th, 2022) | Course: COMP 167 | Quality: 1.0 | Difficulty: 4.0 | Grade: A+ | Attendance: Mandatory
-  Review Text: Her tests are horrible; used code she didn't teach or use, font size was small, broke her own syntax rules, etc. Projects and her assignments are vague and error-prone. As someone said before, the study guide is just an outline of topics. Just don't take her if you have the choice. There are so many negatives, save your GPA. Get ready to read, lots of homework, lecture heavy.
+Review Text: Her tests are horrible; used code she didn't teach or use, font size was small, broke her own syntax rules, etc. Projects and her assignments are vague and error-prone. As someone said before, the study guide is just an outline of topics. Just don't take her if you have the choice. There are so many negatives, save your GPA. Get ready to read, lots of homework, lecture heavy.
 
 * Evaluation 3 (Oct 25th, 2021) | Course: COMP 167 | Quality: 5.0 | Difficulty: 3.0 | Grade: A | Attendance: Mandatory | Would Take Again: Yes
-  Review Text: Very good at explaining the subject. Would definitely take her class again as she is always ready to answer your questions. As long you pay attention in class and participate, you should end up with a grade no less than a B. Gives good feedback, accessible outside class, participation matters.
+Review Text: Very good at explaining the subject. Would definitely take her class again as she is always ready to answer your questions. As long you pay attention in class and participate, you should end up with a grade no less than a B. Gives good feedback, accessible outside class, participation matters.
 
 * Evaluation 4 (Oct 18th, 2021) | Course: COMP 167 | Quality: 1.0 | Difficulty: 4.0 | Grade: A- | Attendance: Mandatory | Would Take Again: No
-  Review Text: Too much work load and her reasoning for all the work was "You don't have anything else to do." Ma'am.. I have 7 other classes. Lots of homework, test heavy, tough grader.
+Review Text: Too much work load and her reasoning for all the work was "You don't have anything else to do." Ma'am.. I have 7 other classes. Lots of homework, test heavy, tough grader.
 
 * Evaluation 5 (Jun 3rd, 2021) | Course: COMP 167 | Quality: 5.0 | Difficulty: 1.0 | Grade: A+ | Attendance: Mandatory | Would Take Again: Yes
-  Review Text: I loved taking her class for COMP 167. She made everything very easy to understand and her test was over what she taught. She even made us a fully in-depth study guide for our final. And it was really helpful! I hope I can get another chance to have a class with her because she is a great professor! Gives good feedback, amazing lectures, extra credit.
+Review Text: I loved taking her class for COMP 167. She made everything very easy to understand and her test was over what she taught. She even made us a fully in-depth study guide for our final. And it was really helpful! I hope I can get another chance to have a class with her because she is a great professor! Gives good feedback, amazing lectures, extra credit.
 
 * Evaluation 6 (May 5th, 2021) | Course: COMP 167 | Quality: 4.0 | Difficulty: 4.0 | Attendance: Mandatory | Would Take Again: Yes
-  Review Text: She was a manageable teacher for this major! Really nice lady who lectured every week and If you really pay attention , you will get by with Atleast a B+. Put in each work and time, you can get an A+ Participation matters, clear grading criteria, amazing lectures.
+Review Text: She was a manageable teacher for this major! Really nice lady who lectured every week and If you really pay attention , you will get by with Atleast a B+. Put in each work and time, you can get an A+ Participation matters, clear grading criteria, amazing lectures.

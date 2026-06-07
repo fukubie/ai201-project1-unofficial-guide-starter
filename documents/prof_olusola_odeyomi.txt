@@ -1,39 +1,48 @@
-========================================================================
-FACULTY PROFILE: Dr. Olusola Odeyomi
+FACULTY_MEMBER: Dr. Olusola Odeyomi
 DEPARTMENT: Computer Science
 UNIVERSITY: North Carolina A&T State University
-========================================================================
-
----
 SECTION: GENERAL OVERVIEW
+CONTENT:
 Title: Assistant Professor
 Academic Background: Ph.D. in Electrical Engineering from Wichita State University (2021) with a dissertation on "Differentially Private Online Learning Algorithms for Federated Optimization"; Master's degree (2016) and Bachelor's degree (2011/2012) in Electronic and Electrical Engineering from Obafemi Awolowo University, Nigeria.
 Contact Email: otodeyomi@ncat.edu
 Primary Office Location: McNair Hall
 Biography: Prior to joining NCAT, served as a postdoctoral researcher and a project manager at the Center of Excellence, Artificial Intelligence and Machine Learning (CoE-AIML), Howard University, Washington DC, from March 2022 to July 2022.
-
 ---
+FACULTY_MEMBER: Dr. Olusola Odeyomi
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: TEACHING HISTORY
+CONTENT:
 * COMP 161: Python for Data Science
 * COMP 496: Senior Project II
 * COMP 790: Independent Study
 * COMP 796: Master's Project
 * COMP 797: Master's Thesis
-
 ---
+FACULTY_MEMBER: Dr. Olusola Odeyomi
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: SCHOLAR PROFILE AND RESEARCH FINGERPRINT
+CONTENT:
 Research Keywords: Federated machine learning, Electronic Learning, Differential Privacy, Social Network, Learning Algorithm, Convolutional Neural Network, Data Distribution, Deep Learning Method, Attention Mechanism, TinyML.
 Active Research Summary: Research focus covers federated optimization, differential privacy protocols, deep learning methods, pattern recognition via attention mechanisms, and security frameworks using TinyML. Additionally intersects with electrical engineering domains, focusing on Gaussian Process Regression frameworks for voltage control and power distribution optimization.
-
 ---
+FACULTY_MEMBER: Dr. Olusola Odeyomi
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: DOCUMENTED SCHOLARSHIP AND CREATIVE EXPRESSIONS
+CONTENT:
 * Publication 1 (2026): "Coordinated Voltage Control and Optimization of Distribution Feeders Using Gaussian Process Regression: Proposing A New Framework" published in IEEE Industry Applications Magazine. Co-authored with T. O. Olowu and A. I. Sarwat. Focuses on power distribution networks, voltage control, and Kriging.
 * Publication 2 (2026): "Dual-Layer Intrusion Detection for EVSE Networks: A TinyML-Driven Security Framework" published in the 23rd IEEE Consumer Communications and Networking Conference (CCNC 2026). Co-authored with G. R. Rachakonda, M. Siddula, O. P. Yadav, and X. Yuan. Focuses on network protocols and tracking suspicious behaviors at the application level.
 * Publication 3 (2025): "Enhancing Recognition of Blurred Faces through FaceNet and Attention Mechanisms" published in the 2nd International Conference on Artificial Intelligence, Computer, Data Sciences, and Applications (ACDSA 2025). Co-authored with T. Maxson, S. Nukala, X. Yuan, and K. Roy. Focuses on deep learning feature extraction.
 * Publication 4 (2025): "Multi-Objective Coordinated Control of Smart Inverters and Legacy Devices" published in Electronics (Switzerland). Co-authored with T. O. Olowu. Evaluates optimal power flow models and simulation results.
 * Publication 5 (2025): "Multi-objective GPR-based design optimization of high frequency transformers" published in Power Electronic Devices and Components. Co-authored with T. O. Olowu, M. Behnamfar, and A. I. Sarwat. Focuses on multiobjective design optimization and finite element analysis.
-
 ---
+FACULTY_MEMBER: Dr. Olusola Odeyomi
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: STUDENT REVIEWS & CLASSROOM VERDICT
+CONTENT:
 [Student Feedback Core Tracker]
 No student reviews or public course evaluations are currently available for this instructor.

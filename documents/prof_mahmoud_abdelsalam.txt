@@ -1,39 +1,48 @@
-========================================================================
-FACULTY PROFILE: Dr. Mahmoud Abdelsalam
+FACULTY_MEMBER: Dr. Mahmoud Abdelsalam
 DEPARTMENT: Computer Science
 UNIVERSITY: North Carolina A&T State University
-========================================================================
-
----
 SECTION: GENERAL OVERVIEW
+CONTENT:
 Title: Assistant Professor
 Academic Background: Ph.D. in Computer Security from the University of Texas at San Antonio (2018); M.S. in Computer Science from the University of Texas at San Antonio (2017); BS in Computer Science from the Arab Academy for Science and Technology (2013).
 Contact Email: mabdelsalam1@ncat.edu
 Primary Office Location: McNair Hall
 Biography: Prior to joining NCAT, served as an Assistant Professor at Manhattan College. Conducted advanced post-doctoral fellowships at the UTSA Institute for Cyber Security (ICS) under the direction of leading industry security professionals. Affiliated faculty researcher with the NCAT Center for Cyber Defense.
-
 ---
+FACULTY_MEMBER: Dr. Mahmoud Abdelsalam
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: TEACHING HISTORY
+CONTENT:
 * COMP 267: Data Base Design
 * COMP 322: Internet Systems
 * COMP 385: Theory of Computing
 * COMP 423: Web Security
 * COMP 494: Independent Study (Undergraduate Research Tracks)
-
 ---
+FACULTY_MEMBER: Dr. Mahmoud Abdelsalam
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: SCHOLAR PROFILE AND RESEARCH FINGERPRINT
+CONTENT:
 Research Keywords: Malware Analysis, Cloud Security, AI for Security, Security for AI, Anomaly-Based Detection, Autoencoders, Transformers for Cybersecurity, Deep Learning for IoT Security, Cyber-Physical Systems Security, Inclusive AI Education.
 Active Research Summary: Research sits at the explicit intersection of applied machine learning and system security engineering. Specializes in building unsupervised neural networks (Autoencoders) to track and catch real-time data anomalies in emerging industries like smart farming ecosystems. Investigates the security vulnerabilities of modern AI frameworks (Security for AI) and pioneers the use of attention-based models (Transformers) to classify evasive zero-day malware variants. 
-
 ---
+FACULTY_MEMBER: Dr. Mahmoud Abdelsalam
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: DOCUMENTED SCHOLARSHIP AND CREATIVE EXPRESSIONS
+CONTENT:
 * Publication 1 (2026): "Empowering Neurodiverse Talent in Cybersecurity Through Fair and Inclusive AI Education" published in the Proceedings of the 57th ACM Technical Symposium on Computer Science Education. Focuses on equity, instructional module design, and inclusive workforce training pipelines.
 * Publication 2 (2025): "SoK: Leveraging Transformers for Malware Analysis" published by the IEEE Computer Society. Analyzes sequential byte parameters using long-context deep learning methods to intercept cyber attacks.
 * Publication 3 (2024): "A Survey on Adversarial Attacks for Malware Analysis" published in IEEE Access. Evaluates how minor byte perturbations can "fool" traditional static code classifiers.
 * Publication 4 (2021): "Autoencoder-based Anomaly Detection in Smart Farming Ecosystem." Focuses on multi-sensor edge computing clusters and real-time monitoring infrastructure safety.
 * Publication 5 (2021): "Artificial Intelligence Assisted Malware Analysis." Outlines methods to scale machine learning automation models across distributed cloud server frameworks.
-
 ---
+FACULTY_MEMBER: Dr. Mahmoud Abdelsalam
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
 SECTION: STUDENT REVIEWS & CLASSROOM VERDICT
+CONTENT:
 [Student Feedback Core Tracker]
 No student reviews or public course evaluations are currently available for this instructor.
