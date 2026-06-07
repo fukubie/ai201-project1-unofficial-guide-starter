@@ -1,0 +1,55 @@
+========================================================================
+FACULTY PROFILE: Dr. Jinsheng Xu
+DEPARTMENT: Computer Science (BS in AI Program Coordinator)
+UNIVERSITY: North Carolina A&T State University
+========================================================================
+
+---
+SECTION: GENERAL OVERVIEW
+Title: Associate Professor and Bachelor of Science in Artificial Intelligence (BS in AI) Program Coordinator
+Academic Background: Ph.D. in Computer Science from Michigan State University (2002) focusing on Parallel Discrete Event Simulation; M.S. in Object-Oriented Geographic Information Systems from Peking University (1996); BS in Computer Science from Nanjing University (1993).
+Contact Email: jxu@ncat.edu
+Primary Office Location: McNair Hall
+Administration Focus: Serves as the primary coordinator and admissions contact for the undergraduate BS in AI engineering track.
+
+---
+SECTION: TEACHING HISTORY
+* COMP 160: Programming I
+* COMP 161: Python for Data Science
+* COMP 280: Data Structures
+* COMP 365: AI and Machine Learning
+* COMP 420: Applied Network Security
+* COMP 476: Networked Computer Systems
+* COMP 485: Generative AI and Large Language Models
+* COMP 726: Network Security
+* COMP 775: Advanced Design and Analysis of Algorithms
+
+---
+SECTION: SCHOLAR PROFILE AND RESEARCH FINGERPRINT
+Research Keywords: Parallel Discrete Event Simulation, Malware Traffic Classification, Deep Convolutional Neural Networks, Anomaly-Based Intrusion Detection, Generative Adversarial Networks (AIGAN), Sentiment Analysis, Authorship Attribution, Phishing Detection, Local Area Network (LAN) Security, Packet Sniffing Simulators.
+Active Research Summary: Directs academic program sequences inside the AI branch. Research focuses heavily on cybersecurity monitoring systems, applying deep learning models to classify raw network packet captures (pcap files), and using Generative Adversarial Networks (GANs) for intrusion detection on IoT networks. Extensively designs interactive, web-based software simulators to teach complex security concepts like buffer overflows and Address Resolution Protocol (ARP) spoofing attacks.
+
+---
+SECTION: DOCUMENTED SCHOLARSHIP AND CREATIVE EXPRESSIONS
+* Publication 1 (2024): "Classifying Malware Traffic Using Images and Deep Convolutional Neural Network" published in IEEE Access. Co-authored with R. E. Davis and K. Roy. Translates raw network packet flows into image-based feature arrays for deep CNN analysis.
+* Publication 2 (2024): "Using Gamification to Enhance Mastery of Network Security Concepts" published in the Journal of Cybersecurity Education, Research and Practice. Co-authored with K. Hillard, X. Yuan, K. S. Bryant, and J. Zhang.
+* Publication 3 (2023): "Anomaly-Based Intrusion on IoT Networks Using AIGAN—a Generative Adversarial Network" published in IEEE Access. Investigates algorithmic defenses against network data poisoning.
+* Publication 4 (2023): "Identifying Fake and Real Images by Using Masked Face Periocular Region." Co-authored with U. Nannuri, K. Roy, and T. B. Gwyn. Evaluates Extreme Gradient Boosting and facial recognition algorithms.
+* Publication 5 (2022): "Determining Phishing Emails using URL Domain Features." Co-authored with A. Sumner and X. Yuan. Leverages Naive Bayes classification architectures to map digital attacker footprints.
+
+---
+SECTION: METRIC TRACKING OVERVIEW
+* Overall Quality Score: 5.0 / 5.0 (Based on 1 rating)
+* Level of Difficulty: 3.0 / 5.0
+* Student "Would Take Again" Ratio: 100%
+* Primary Course Codes Tracked: COMP 280
+
+---
+SECTION: STRUCTURAL CLASSIFIERS & TAGS
+[System Tags Identified]: AMAZING LECTURES, CLEAR GRADING CRITERIA, LECTURE HEAVY.
+
+---
+SECTION: CHRONOLOGICAL EVALUATION LOG
+
+* Evaluation 1 (Dec 12th, 2025) | Course: COMP 280 | Quality: 5.0 | Difficulty: 3.0 | Grade: B | Attendance: Not Mandatory | Would Take Again: Yes
+  Review Text: Very clear lectures and policies. Explains concepts clearly and doesn't mind explaining in more detail when class is confused. Don't be shy if you don't understand a concept, he is always very open and happy to help students understand the class. Wants to see all his students succeed. Hard exams, and your grade is mostly exams but good professor.

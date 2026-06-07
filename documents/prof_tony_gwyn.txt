@@ -1,0 +1,57 @@
+========================================================================
+FACULTY PROFILE: Mr. Tony Gwyn
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
+========================================================================
+
+---
+SECTION: GENERAL OVERVIEW
+Title: Lecturer
+Academic Background: M.S. in Computer Science Information Technology from Winston-Salem State University (2020).
+Contact Email: tgwyn@ncat.edu
+Primary Office Location: McNair Hall
+Instructional Focus: Serves as a key instructional faculty member spanning introductory computing literacy tracks up through specialized underclassmen core tracks.
+
+---
+SECTION: TEACHING HISTORY
+* COMP 161: Python for Data Science
+* COMP 285: Analysis of Algorithms
+* COMP 350: Operating Systems
+* COMP 365: AI and Machine Learning
+* COMP 454: Virtual and Augmented Reality
+
+---
+SECTION: SCHOLAR PROFILE AND RESEARCH FINGERPRINT
+Research Keywords: Convolutional Neural Network (CNN), Biometrics, User Authentication, Password Safety, Facial Recognition, Deepfake Detection, Xception Architecture, Deep Learning Method, Algorithmic Bias Auditing, Periocular Biometrics.
+Active Research Summary: Research concentrates on evaluating computer vision system integrity and fairness parameters. Specializes in analyzing gender bias in facial recognition software across traditional machine learning models versus deep convolutional neural networks. Collaborates directly with the Center for Trustworthy AI to construct image-based defensive authentication protocols (such as analyzing masked face periocular regions) and utilizing eye-region convolutional neural network profiling to accurately isolate fake generated media inputs.
+
+---
+SECTION: DOCUMENTED SCHOLARSHIP AND CREATIVE EXPRESSIONS
+* Publication 1 (2023): "Identifying Fake and Real Images by Using Masked Face Periocular Region" published as a book chapter. Co-authored with U. Nannuri, K. Roy, J. Xu, and B. Govan. Leverages Extreme Gradient Boosting and CNN architectures for image verification.
+* Publication 2 (2022): "Deepfake Detection Using CNN Trained on Eye Region" published by Springer. Co-authored with D. Johnson, L. Qingge, and K. Roy. Isolates specific facial zones to depress false-positive classification outputs in identity systems.
+* Publication 3 (2022): "Examining Gender Bias of Convolutional Neural Networks via Facial Recognition" published in Future Internet. Co-authored with K. Roy. Conducts granular safety checks on algorithmic recognition disparities across targeted technical systems.
+* Publication 4 (2022): "Face Authentication from Masked Face Images Using Deep Learning on Periocular Biometrics" published by Springer. Co-authored with J. J. Hernandez V, R. Dejournett, U. Nannuri, X. Yuan, and K. Roy. Protects personal biometric information for commerce and online services.
+* Publication 5 (2021): "Evaluation of Gender Bias in Facial Recognition with Traditional Machine Learning Algorithms" published in the 2021 IEEE Symposium Series on Computational Intelligence (SSCI). Co-authored with M. Atay, H. Gipson, and K. Roy. Traces systematic miss-rates within facial pattern analysis algorithms.
+
+---
+SECTION: METRIC TRACKING OVERVIEW
+* Overall Quality Score: 4.0 / 5.0 (Based on 3 ratings)
+* Level of Difficulty: 1.7 / 5.0
+* Student "Would Take Again" Ratio: 100%
+* Primary Course Codes Tracked: COMP 285 (System Default Entry Override Note: Student explicitly notes course variance below)
+
+---
+SECTION: STRUCTURAL CLASSIFIERS & TAGS
+[System Tags Identified]: EXTRA CREDIT, LOTS OF HOMEWORK, ONLINE SAVVY, GIVES GOOD FEEDBACK, CARING.
+
+---
+SECTION: CHRONOLOGICAL EVALUATION LOG
+
+* Evaluation 1 (May 12th, 2025) | Course: COMP 285 | Quality: 2.0 | Difficulty: 1.0 | Grade: A- | Attendance: Mandatory | Would Take Again: Yes
+  Review Text: I have had him twice and he cancels class like every week.. Isn't a super tough grader and allows open notes for exams and quizzes which is cool. Class is usually chill, but sometimes the weekly assignments can be annoying. (Didn't have him for 285 but it won't let me pick anything else)
+
+* Evaluation 2 (Apr 4th, 2025) | Course: COMP 285 | Quality: 5.0 | Difficulty: 3.0 | Grade: B+ | Attendance: Not Mandatory | Would Take Again: Yes
+  Review Text: love the way he formats his classes, very flexible, lots of homework but its nice for a class like this, so you can maintain a higher grade. Extra credit, lots of homework, online savvy.
+
+* Evaluation 3 (Nov 4th, 2024) | Course: COMP 285 | Quality: 5.0 | Difficulty: 1.0 | Grade: A | Attendance: Mandatory | Would Take Again: Yes
+  Review Text: Makes it his mission to make sure we all understand what's going on both in and out of class, since we would go from in class to online classes he always made sure we were updated and changed due dates as he saw fit. Gives good feedback, caring, online savvy.

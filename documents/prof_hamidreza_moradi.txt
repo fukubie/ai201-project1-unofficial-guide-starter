@@ -1,0 +1,54 @@
+========================================================================
+FACULTY PROFILE: Dr. Hamidreza Moradi
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
+========================================================================
+
+---
+SECTION: GENERAL OVERVIEW
+Title: Assistant Professor and Director of the eXplainable Deep Intelligence (XDI) Lab
+Academic Background: Ph.D. in Computer Science from The University of Texas at San Antonio (2020); M.S. in Computer Science from The University of Texas at San Antonio (2019). Prior to joining NCAT, served as an Assistant Professor in the Department of Data Science at the University of Mississippi Medical Center (UMMC).
+Contact Email: hmoradi@ncat.edu
+Primary Office Location: McNair Hall (MERIC 331)
+Honors: Outstanding Achievement in Teaching Award from the University of Texas at San Antonio. Research and grants recognized by NNSA, DoE, Boeing, and MCCTR.
+
+---
+SECTION: TEACHING HISTORY
+* COMP 285: Analysis of Algorithms
+* COMP 361: Data Analytics in Python
+* COMP 651: Data Analytics Techniques
+* COMP 710: Specifications and Design
+* COMP 790: Independent Study
+
+---
+SECTION: SCHOLAR PROFILE AND RESEARCH FINGERPRINT
+Research Keywords: Cloud Computing, Computer Vision (CV), Natural Language Processing (NLP), eXplainable AI (XAI), Large Language Models (LLMs), Vision-Language Models (VLMs), Orthopedic Image Segmentation, AI Fairness, Cloud Job Scheduling, Deep Few-Shot Learning.
+Active Research Summary: Directs the Gaming and Cyber-Secure Smart Lab / eXplainable Deep Intelligence (XDI) Lab (xdilab.com). Active research tracks explore AI operational safety enhancements, auditing deep learning structures for fairness or demographic bias in orthopedic medical image segmentations, optimizing private cloud VM task schedulers, and evaluating LLM behaviors in security testing pipelines. Backed by active institutional research grants from Boeing (aviation safety LLMs) and Sandia National Lab (security log anomaly detection).
+
+---
+SECTION: DOCUMENTED SCHOLARSHIP AND CREATIVE EXPRESSIONS
+* Publication 1 (2025): "Evaluating the Effectiveness of Existing Phishing Detectors on AI Generated Phishing Emails" accepted at IEEE CARS. Focuses on testing cybersecurity resilience against generative social engineering tactics.
+* Publication 2 (2025): "Using Topic Modeling and LLMs to Recommend CAPEC Attack Patterns: A Comparative Study" accepted at IEEE CSR.
+* Publication 3 (2024): "Enforcing Explainable Deep Few-Shot Learning to Analyze Plain Knee Radiographs: Data from the Osteoarthritis Initiative." Focuses on reducing massive data annotation demands in clinical computer vision systems.
+* Publication 4 (2024): "AI Fairness in Hip Bony Anatomy Segmentation: Analyzing and Mitigating Gender and Racial Bias in Plain Radiography Analysis." Evaluates bias propagation within surgical pre-operative deep learning frameworks.
+* Publication 5 (2020): "uPredict: A User-Level Profiler-Based Predictive Framework in Multi-Tenant Clouds" published in the IEEE Symposium Series. Maps out performance-aware single VM applications scheduling strategies to eliminate server collocation latency interferences.
+
+---
+SECTION: METRIC TRACKING OVERVIEW
+* Overall Quality Score: 3.0 / 5.0 (Based on 2 ratings)
+* Level of Difficulty: 3.0 / 5.0
+* Student "Would Take Again" Ratio: 50%
+* Primary Course Codes Tracked: COMP 285
+
+---
+SECTION: STRUCTURAL CLASSIFIERS & TAGS
+[System Tags Identified]: TOUGH GRADER, GROUP PROJECTS, GRADED BY FEW THINGS, PARTICIPATION MATTERS, EXTRA CREDIT.
+
+---
+SECTION: CHRONOLOGICAL EVALUATION LOG
+
+* Evaluation 1 (Feb 25th, 2025) | Course: COMP 285 | Quality: 2.0 | Difficulty: 3.0 | Grade: Drop/Withdrawal | Attendance: Mandatory
+  Review Text: Do not take the class unless you are prepared to fully dissect algorithms and have plenty of time to do so. Tough grader, group projects, graded by few things.
+
+* Evaluation 2 (Dec 5th, 2023) | Course: COMP 285 | Quality: 4.0 | Difficulty: 3.0 | Grade: Not sure yet | Attendance: Mandatory | Would Take Again: Yes
+  Review Text: Moradi is a good professor, he just talks pretty fast. He does a lot of explaining and encourages people to ask questions. There aren't that many assignments, but there are many extra credit opportunities. He drops the lowest quiz and homework grades, but use this wisely and still show up for every one because there are only about 4 of each. Participation matters, extra credit, graded by few things.

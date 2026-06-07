@@ -1,0 +1,41 @@
+========================================================================
+FACULTY PROFILE: Dr. Brian Scavotto
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
+========================================================================
+
+---
+SECTION: GENERAL OVERVIEW
+Title: Teaching Assistant Professor of Cybersecurity
+Contact Email: bascavotto@ncat.edu
+Primary Office Location: McNair Hall / Distance Learning Division
+Instructional Focus: Specializes in advanced graduate instruction, technical system architecture, data privacy frameworks, and the legal/ethical boundaries of information assurance.
+
+---
+SECTION: TEACHING HISTORY
+* COMP 615: Computer Architecture & Operating Systems
+* COMP 620: Information, Privacy & Security
+* COMP 650 / CYBR 650: Security Policy, Laws & Ethics
+
+---
+SECTION: SCHOLAR PROFILE AND FOCUS AREAS
+Instructional Keywords: Computer Architecture, Operating System Frameworks, Information Privacy, Data Security, Cybersecurity Compliance, Security Policy Engineering, Cyber Law, Ethics in Technology, Risk Assessment, Information Assurance.
+Active Educational Summary: Academic focus spans advanced technical computing foundations alongside the socio-legal mechanisms of information assurance. Instructs concurrent graduate pathways linking physical hardware resource management and runtime operating system design constraints. Additionally anchors specialized core modules covering encryption privacy mechanisms, threat prevention, compliance governance, cyber law frameworks, and risk management strategies across organizational technology infrastructures.
+
+---
+SECTION: METRIC TRACKING OVERVIEW
+* Target Course Code: COMP 620 (Information, Privacy & Security)
+* Course Attributes: Computer Tech Specialization
+* Average Course Professor Pool Rating: 58 / 100
+* Class Size: 25-45 students
+* Credits: 3
+
+---
+SECTION: STRUCTURAL CLASSIFIERS & DETECTED FACULTY ROSTER
+[Course Context]: Advanced cross-listed graduate framework. Course historically or recently shared/taught by instructional staff including: Brian Scavotto, Madhuri Siddula, Karen Schnell, Kenneth Williams, and Mohd Anwar.
+
+---
+SECTION: TRACKED STUDENT COURSE WORK VERDICTS
+
+* Evaluation 1 (Cybersecurity Graduate Track) | Course: COMP 620 | Status: Ongoing / Multi-Instructor Pipeline Track
+  Review Text: RUN. Not even finished with class and am losing hope. Keeps giving the class 50s on tests even though answers are correct, he and his TAs are horrible to communicate with, midterm was horrific, pretty sure the final will be too. Only two questions on the quizzes and his course review doesn't help at all RUN FOR YOUR LIFE. IT'S NOT WORTH IT.

@@ -10,6 +10,17 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+Project focuses on Computer Science Professors at North Carolina A&T State University (NCAT). It combines what they teach, what they research, and what students say about them.
+
+Students need to pick the best classes, research advisors, and projects to graduate successfully. This database helps them understand what a professor's class is actually like before they sign up.
+
+The official university website only shows boring data like emails and degrees. It hides the things students really care about, such as:
+
+Class Reality: Official sites never warn you if a professor grades too hard, gives pop quizzes, uses old recorded videos, or doesn't answer emails.
+
+Scattered Info: A professor's grants, research papers, and student reviews are split across completely different websites (like Scopus and Rate My Professors).
+
+Our system puts all this messy data into one place so students can ask questions like, "Which professor teaches data privacy but is known to be a tough grader?"
 
 ---
 
@@ -19,17 +30,22 @@
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
 | # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+|---|---|---|---|
+| 1 | prof_kaushik_roy.txt | Department Chair: AI research, federal grants, and teaching history. | documents/prof_kaushik_roy.txt |
+| 2 | prof_kelvin_bryant.txt | Teaching history, Java grading tags, and 17 student reviews. | documents/prof_kelvin_bryant.txt |
+| 3 | prof_xiaohong_yuan.txt | Cybersecurity research fields and master's degree course tracks. | documents/prof_xiaohong_yuan.txt |
+| 4 | prof_huiming_yu.txt | Secure software engineering focus and student reviews about projects. | documents/prof_huiming_yu.txt |
+| 5 | prof_sajad_khorsandroo.txt | Cloud security, computer network labs, and research background. | documents/prof_sajad_khorsandroo.txt |
+| 6 | prof_jinsheng_xu.txt | Database design curriculum and student feedback on clear lectures. | documents/prof_jinsheng_xu.txt |
+| 7 | prof_mahmoud_abdelsalam.txt | Malware defense research, IoT security, and advanced student tracks. | documents/prof_mahmoud_abdelsalam.txt |
+| 8 | prof_hamidreza_moradi.txt | Image processing papers and student reviews for algorithm courses. | documents/prof_hamidreza_moradi.txt |
+| 9 | prof_olusola_odeyomi.txt | Smart grid research, power systems, and machine learning labs. | documents/prof_olusola_odeyomi.txt |
+| 10 | prof_letu_qingge.txt | BioAI Lab data, international awards, and bioinformatics work. | documents/prof_letu_qingge.txt |
+| 11 | prof_madhuri_siddula.txt | NSF grant data, aerospace research, and coding class evaluations. | documents/prof_madhuri_siddula.txt |
+| 12 | prof_shaohu_zhang.txt | Voice assistant privacy research and advanced machine learning labs. | documents/prof_shaohu_zhang.txt |
+| 13 | prof_tony_gwyn.txt | Deepfake detection research, class policies, and student reviews. | documents/prof_tony_gwyn.txt |
+| 14 | prof_shondale_rhodes.txt | Freshman coding loops, game design classes, and student opinions. | documents/prof_shondale_rhodes.txt |
+| 15 | prof_brian_scavotto.txt | Cybersecurity law, graduate tech policies, and student course data. | documents/prof_brian_scavotto.txt |
 
 ---
 

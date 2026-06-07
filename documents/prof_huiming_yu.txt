@@ -1,0 +1,53 @@
+========================================================================
+FACULTY PROFILE: Dr. Huiming Yu
+DEPARTMENT: Computer Science (Graduate Coordinator)
+UNIVERSITY: North Carolina A&T State University
+========================================================================
+
+---
+SECTION: GENERAL OVERVIEW
+Title: Professor and Graduate Coordinator
+Academic Background: Ph.D. in Computer Science from Stevens Institute of Technology (1992) with a focus on Autonomous Mobile Robot Programming Systems; Master of Engineering (ME) from Hefei Polytechnic University (1981); BS in Electrical Engineering from Xiamen University (1976).
+Contact Email: cshmyu@ncat.edu
+Primary Office Location: McNair Hall
+Administration Focus: Coordinates advanced independent studies, handles graduate student curriculum tracking, and manages software engineering training tracks within the department.
+
+---
+SECTION: TEACHING HISTORY
+* COMP 360: Programming Languages
+* COMP 494: Independent Study (Undergraduate)
+* COMP 621: Web Security
+* COMP 700: Independent Study (Graduate Master's Track)
+* COMP 790: Independent Study (Doctoral Track)
+
+---
+SECTION: SCHOLAR PROFILE AND RESEARCH FINGERPRINT
+Research Keywords: Interactive Visualization, Visualization Tool, Software Engineering, Secure Program Design, Security and Privacy, Address Resolution Protocol (ARP), Spoofing Attack, Evolutionary Computing, Hybrid Load Balancing, Buffer Overflow Defense.
+Active Research Summary: Research centers deeply on secure programming education, information assurance models, and software engineering. Focuses heavily on developing interactive visualization tools and secure coding modules (such as using abuse cases) to properly train student engineers in preventing critical code vulnerabilities like buffer overflows. Additionally explores evolutionary computing models to build hybrid network load-balancing strategies.
+
+---
+SECTION: DOCUMENTED SCHOLARSHIP AND CREATIVE EXPRESSIONS
+* Publication 1 (2020): "The Design and Implementation of Secure Program Design Educational Tool." Co-authored with Q. Yu, J. Xu, and X. Yuan. Focuses on deploying custom engineering tools for information defense labs.
+* Publication 2 (2020): "Using Secure Modules and Abuse Cases to Educated and Train Software Engineers" published in conference proceedings. Co-authored with X. Yuan.
+* Publication 3 (2019): "Teaching Secure Program Design." Co-authored with N. Jones, Q. Yu, and K. Schell. Analyzes data structures and buffer overflow vulnerability training paradigms.
+* Publication 4 (2018): "A Hybrid Load Balance Method Using Evolutionary Computing." Focuses on multi-objective genetic optimization structures for cloud network routing.
+
+---
+SECTION: METRIC TRACKING OVERVIEW
+* Overall Quality Score: 2.0 / 5.0 (Based on 2 ratings)
+* Level of Difficulty: 4.5 / 5.0
+* Student "Would Take Again" Ratio: 0%
+* Primary Course Codes Tracked: COMP 360
+
+---
+SECTION: STRUCTURAL CLASSIFIERS & TAGS
+[System Tags Identified]: TOUGH GRADER, GROUP PROJECTS, LECTURE HEAVY, GRADED BY FEW THINGS.
+
+---
+SECTION: CHRONOLOGICAL EVALUATION LOG
+
+* Evaluation 1 (Jan 31st, 2025) | Course: COMP 360 | Quality: 2.0 | Difficulty: 4.0 | Grade: B- | Attendance: Not Mandatory
+  Review Text: Dr. Yu shows a video of the lecture instead of teaching, which is demotivating. She posts the grading rubric for each group project at the last minute. If you get a wrong answer on an exam and know it's correct, it's still wrong because she's always correct. Her accent is hard to understand. Good thing she answers student's questions.
+
+* Evaluation 2 (May 13th, 2024) | Course: COMP 360 | Quality: 2.0 | Difficulty: 5.0 | Grade: C+ | Attendance: Not Mandatory
+  Review Text: Her class is not at all engaging. Every class is a video of a past recorded lecture. There are only 3 project assignments and 3 tests that make up your grade for the whole semester. No extra credit opportunities and no makeups. The tests are graded pretty hard, but there is partial credit. Get ready to teach yourself.

@@ -1,0 +1,39 @@
+========================================================================
+FACULTY PROFILE: Dr. Shaohu Zhang
+DEPARTMENT: Computer Science
+UNIVERSITY: North Carolina A&T State University
+========================================================================
+
+---
+SECTION: GENERAL OVERVIEW
+Title: Assistant Professor
+Academic Background: Ph.D. in Computer Science from North Carolina State University (2023). Previously served as an Assistant Professor in Computer Science at the University of North Carolina at Pembroke from 2023 to 2025.
+Contact Email: szhang1@ncat.edu
+Primary Office Location: McNair Hall
+Affiliations: Director of the X+ Intelligence Lab; Affiliated with the Cyber Defense and AI Lab.
+
+---
+SECTION: TEACHING HISTORY
+* COMP 385: Theory of Computing
+* COMP 710: Specifications and Design
+* COMP 790: Independent Study
+* COMP 797: Master's Thesis
+* COMP 895: LLM and Security
+
+---
+SECTION: SCHOLAR PROFILE AND RESEARCH FINGERPRINT
+Research Keywords: Voice Assistant Security, Anonymity, Anonymization Metrics, Speaker Verification, Biometrics, Privacy Preserving Transformation, Privacy Protection, Feature Fusion, Cross-Linguistic Speech Emotion Recognition, Mobile Computing, Trustworthy AI.
+Active Research Summary: Leads the X+ Intelligence Lab. Research centers heavily on security, privacy, and mobile computing. Specializes in designing robust frameworks for voice anonymity, preventing the misactivation of commercial voice assistants via speaker orientation awareness, and engineering multi-feature fusion frameworks using cross-attention Transformers for speech emotion recognition. Additionally builds instance-level privacy preservation systems for vehicular camera videos to protect pedestrian and vehicle data from re-identification.
+
+---
+SECTION: DOCUMENTED SCHOLARSHIP AND CREATIVE EXPRESSIONS
+* Publication 1 (2025): "Leveraging Cross-Attention Transformer and Multi-Feature Fusion for Cross-Linguistic Speech Emotion Recognition" published in IEEE Internet of Things Journal. Co-authored with R. Zhao, X. Jiang, Richard Yu, V. C. M. Leung, and T. Wang. Focuses on feature extraction and model accuracy across target languages.
+* Publication 2 (2024): "Privacy Measurement of Physical Attributes on Voice Anonymity" published in the 30th International Conference on Mobile Computing and Networking (ACM MobiCom 2024). Co-authored with Z. Li and A. Das. Focuses on biometrics and speaker verification protection.
+* Publication 3 (2023): "INSPIRE: Instance-Level Privacy-Pre Serving Transformation for Vehicular Camera Videos" published in the 32nd International Conference on Computer Communications and Networks (ICCCN 2023). Co-authored with Z. Li, R. Yu, A. Das, H. Gu, X. Wang, F. Zhou, A. Sabir, D. Ahmed, and A. Zafar. Focuses on object detection privacy boundaries.
+* Publication 4 (2023): "Speaker Orientation-Aware Privacy Control to Thwart Misactivation of Voice Assistants" published in the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2023). Co-authored with A. Sabir and A. Das.
+* Publication 5 (2023): "VoicePM: A Robust Privacy Measurement on Voice Anonymity" published in the 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2023). Co-authored with Z. Li and A. Das. Investigates Internet of Things device privacy trade-offs.
+
+---
+SECTION: STUDENT REVIEWS & CLASSROOM VERDICT
+[Student Feedback Core Tracker]
+No student reviews or public course evaluations are currently available for this instructor.
