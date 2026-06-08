@@ -118,6 +118,15 @@ Conext length: Our current tiny model can only read 256-512 tokens at a time for
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 <img src="./Architecture.png">
 
+[1. INGESTION]      -->    [2. CHUNKING]      -->   [3. VECTOR STORE]
+  15 Text Files              LangChain Splitter         Sentence-Transformers
+  (Python loops              (1,000 Chars size          (all-MiniLM-L6-v2)
+  + Header tags)              150 Chars overlap)                 │
+                                                                 ▼
+ [5. GENERATION]     <--     [4. RETRIEVAL]    <--          [ChromaDB]
+   Groq Cloud API               Gradio UI                 (Local Database
+  (Llama 3.3 Model)          (Get Top-3 Chunks)            Saves Chunks)
+
 ---
 
 ## AI Tool Plan
