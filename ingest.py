@@ -44,8 +44,8 @@ def ingest_documents():
 
     # Initialize chunker
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1000,
-        chunk_overlap=150,
+        chunk_size=500,
+        chunk_overlap=50,
         separators=["\n\n", "\n", " ", ""]
     )
 
@@ -81,7 +81,7 @@ def ingest_documents():
                 "metadata": metadata
             })
 
-        print(f"✓ {professor_name}: {len(chunks)} chunks")
+        print(f"+ {professor_name}: {len(chunks)} chunks")
 
     return all_chunks
 

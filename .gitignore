@@ -6,16 +6,31 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 .venv/
+.venv-1/
 venv/
 env/
+*.log
 
 # Jupyter
 .ipynb_checkpoints/
 
-# ChromaDB local storage
+# AI Assistant & IDE Data (Claude, VS Code, etc.)
+.claude/
+.claude_direct/
+.vscode/
+
+# ChromaDB local storage (Catches all the versions we tested)
 chroma_db/
 chroma/
+chroma_db_v2/
+chroma_db_bge/
+chroma_db_nomic/
+chroma_db*/
 
-# macOS
+# Gradio Caches
+gradio_cached_examples/
+flagged/
+
+# OS Generated Files (macOS & Windows)
 .DS_Store
-.vscode/settings.json
+Thumbs.db

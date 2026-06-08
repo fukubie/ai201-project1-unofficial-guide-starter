@@ -151,12 +151,12 @@
 
 **Instance 1**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* I gave Claude my vector search results from Milestone 4 because my search query for "Dr. Tony Gwyn's office" was pulling up the wrong professor's office instead.
+- *What it produced:* Claude suggested fixing the issue by adding a complex "re-ranker" system or switching my embedding models.
+- *What I changed or overrode:* I rejected the idea of adding a complicated re-ranker. Instead, I directed the AI to upgrade my embedding model to `BAAI/bge-large-en-v1.5` and change my text chunk size to 500 characters so the data would be denser. This boosted my search accuracy to 100%.
 
 **Instance 2**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* I gave Claude my final architecture plan and asked it to write the `app.py` script using the Groq API and Gradio for the user interface.
+- *What it produced:* It wrote the script, but it kept guessing the wrong Groq model names (like `gemma2-9b-it`) which caused API errors. It also added a `theme=gr.themes.Soft()` setting to the Gradio code that crashed my app due to versioning. 
+- *What I changed or overrode:* I stopped the AI from hallucinating model names and forced it to hardcode the exact correct model: `llama-3.1-8b-instant`. I also manually went into the Python code and deleted the `theme` line so the web interface could launch without throwing a TypeError.
